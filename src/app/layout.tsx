@@ -9,7 +9,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Bazar — Marketplace",
+  title: "PRODUCT — STORE",
   description: "Marketplace conectado a la API de productos",
 };
 
