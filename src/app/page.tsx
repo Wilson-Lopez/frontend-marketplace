@@ -152,8 +152,8 @@ export default function Home() {
               </svg>
             </div>
             <div className="leading-tight">
-              <p className="text-base font-bold tracking-tight text-slate-900">Bazar</p>
-              <p className="-mt-0.5 text-[11px] text-slate-400">Marketplace</p>
+              <p className="text-base font-bold tracking-tight text-slate-900">Central</p>
+              <p className="-mt-0.5 text-[11px] text-slate-400">Store</p>
             </div>
           </div>
 
@@ -295,7 +295,7 @@ export default function Home() {
 
       <footer className="mt-10 border-t border-slate-200 py-8 text-center">
         <p className="text-sm text-slate-400">
-          Bazar Marketplace · Next.js + Express + MySQL · 2026
+          Laboratorio terminado- 2026 Tecsup
         </p>
       </footer>
 
